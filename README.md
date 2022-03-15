@@ -3,4 +3,4 @@
 
 ---
 
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/14-jIn41qgCVgBbSpbfTwQyQiquAIbKrBSmkOofR1xlc/edit?usp=sharing)
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/14-jIn41qgCVgBbSpbfTwQyQiquAIbKrBSmkOofR1xlc/edit?usp=sharing)
